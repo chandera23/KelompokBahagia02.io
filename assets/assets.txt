@@ -1,0 +1,26 @@
+(Home/slider)
+1.jpg	(property of unsplash)
+2.jpg	(property of pexels)
+3.jpg	(property of unsplash)
+
+(about us)
+piano	(property of pngtree)
+
+(portfolio)
+1.jpg	(property of pexels)
+2.jpg	(property of pexels)
+3.jpg	(property of pexels)
+4.jpg	(property of pexels)
+5.jpg	(property of pexels)
+
+(Clients)
+Fender.png (property of stickpng) 
+Cort.png (property of pngegg) 
+Casio.png (property of stickpng) 
+
+(Parallax)
+Parallax (property of unsplash)
+
+(font) 
+Great Vibes	(property of google font)
+
